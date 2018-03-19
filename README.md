@@ -1,10 +1,12 @@
 # A-new-multi-focus-image-fusion-technique-based-on-variance-in-DCT-domain
 A new multi-focus image fusion technique based on variance in DCT domain Matlab Code
-(C)	Mostafa Amin-Naji, Babol Noshirvani University of Technology, Mostafa.Amin.Naji@Gmail.com, PLEASE CITE THE ABOVE PAPERS IF YOU USE THIS CODE My Official Website: www.Amin-Naji.com
+(C)	Mostafa Amin-Naji, Babol Noshirvani University of Technology, Mostafa.Amin.Naji@Gmail.com, PLEASE CITE THE ABOVE PAPERS IF YOU USE THIS CODE 
+
+My Official Website: www.Amin-Naji.com
 
 A new multi-focus image fusion technique based on variance in DCT domain MATLAB Code is the simulation of the following multi-focus image fusion methods in DCT domain:
 
-(1) DCT+Corr (2) DCT+Corr+CV
+(1) DCT+Sharp (2) DCT+Sharp+CV
 
 proposed in:
 
